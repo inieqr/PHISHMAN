@@ -23,15 +23,8 @@ export function SecondaryBody() {
           use a Machine Learning method called Artificial Neural Network which
           was trained on a dataset of 600,000 legitimate and malicious URLs.
           
-          <br/> <br/>
-         <span className="font-bold sm:text-sm underline text-amber-400 hover:text-white mb-5"> 
-         <a href="https://github.com/inieqr/Phishing-Websites-Detection" target="_blank" rel="noreferrer">
-         LEARN MORE </a> </span>
         </p>
-      </div>
-      <div className="relative">
-        
-      </div>  
+     
     </>
   );
 }
