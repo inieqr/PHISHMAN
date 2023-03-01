@@ -22,7 +22,6 @@ export function SecondaryBody() {
           scam. To detect the malicious websites in the most efficient way, we
           use a Machine Learning method called Artificial Neural Network which
           was trained on a dataset of 600,000 legitimate and malicious URLs.
-          
         </p>
      
     </>
