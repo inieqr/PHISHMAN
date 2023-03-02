@@ -23,7 +23,7 @@ export function SecondaryBody() {
           use a Machine Learning method called Artificial Neural Network which
           was trained on a dataset of 600,000 legitimate and malicious URLs.
         </p>
-     
+      </div>
     </>
   );
 }
